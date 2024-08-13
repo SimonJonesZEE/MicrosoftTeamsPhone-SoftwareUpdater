@@ -26,23 +26,7 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 ## Pre-requisites
 * PowerShell modules:
   * Microsoft.Graph.Beta
- > [!NOTE]
-  >  These will be installed  for you by the [pre-requisites script](1-ConfigureSharedCalling-PreReqs.ps1)
-
-*	Microsoft Teams Phone Resource Account licensing
-*	Shared telephone phone number for inbound and outbound calling (Must be enabled for Voice app usage)
-*	Microsoft Phone System licensing for users (E5 or other licences with Phone System Standard)
-*	Optional - telephone number(s) for emergency callback
-
-### For Direct Routing deployments:
-* Your SBC is deployed and working correctly.
-* Teams voice routing configuration has been completed.
-### For Calling Plans deployments:
-* Pay-as-you go (PAYG) calling plan is purchased and ready to be assigned.
-* Communication credits licence is purchased and has funds.
-### For Operator Connect deployments:
-* You have an enabled Operator Connect carrier.
-
+    
 ## Deployment Guide
 Please find step-by-step guidance on the [deployment guide](deployment.md) page.  
 If you think something is missing, please raise them as issues [here](https://github.com/robwatts365/MicrosoftTeamsPhone-ConfigureSharedCalling/issues).
