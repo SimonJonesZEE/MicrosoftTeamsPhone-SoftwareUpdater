@@ -79,8 +79,7 @@ function Select-txtFile {
 	if ($continue.ToLower() -eq "c") {
 		Return $txtFile
 		}
-    }
-    
+    }    
     Return 0
 }
 #endregion
