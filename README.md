@@ -25,11 +25,7 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 
 ## Pre-requisites
 * PowerShell modules:
-  * AzureADPreview
-  * Microsoft.Graph
-  * MSOnline
-  * ExchangeOnlineManagment
-  * MicrosoftTeams
+  * Microsoft.Graph.Beta
  > [!NOTE]
   >  These will be installed  for you by the [pre-requisites script](1-ConfigureSharedCalling-PreReqs.ps1)
 
