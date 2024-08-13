@@ -13,10 +13,10 @@ The project aims to make it easier and faster for IT admins to batch process sof
 The project is open source and welcomes contributions from the community. 
 
 ## Documentation
-For further guidance about Shared Calling in Teams, please see this [configuration guide](https://aka.ms/TeamsSharedCallingConfigGuide) by [@ariprotheroe](https://github.com/ariprotheroe) and the [Microsot Learn page](https://learn.microsoft.com/en-us/microsoftteams/shared-calling-setup).
+In progress...
 
 ## Support
-If you encounter any bugs or issues while using the scripts, please raise them as issues [here](https://github.com/robwatts365/MicrosoftTeamsPhone-ConfigureSharedCalling/issues) in this GitHub repository. You can also submit pull requests with your suggestions or improvements to the code. The project team appreciates your feedback and support. 
+If you encounter any bugs or issues while using the scripts, please raise them as issues [here](https://github.com/jone5zee/MicrosoftTeamsPhone-SoftwareUpdates/issues) in this GitHub repository. You can also submit pull requests with your suggestions or improvements to the code. The project team appreciates your feedback and support. 
 
 Thank you for using this project and I hope you find it useful and helpful. 😊
 
