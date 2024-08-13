@@ -39,6 +39,6 @@ If you think something is missing, please raise them as issues [here](https://gi
 
 | Name | README.md |
 | :--- | :--- |
-| Author | Rob Watts ([@robwatts365](https://github.com/robwatts365)) |
-| **Version** | 1.1 |
-| **Date** | 26/01/2024 |
+| Author | Simon Jones ([@simonjonestsf](https://github.com/simonjonestsf)) |
+| **Version** | 2.0 |
+| **Date** | 13/08/2024 |
