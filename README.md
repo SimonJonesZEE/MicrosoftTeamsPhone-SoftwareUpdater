@@ -21,7 +21,7 @@ If you encounter any bugs or issues while using the scripts, please raise them a
 Thank you for using this project and I hope you find it useful and helpful. 😊
 
  > [!TIP]
-> For a list of TeamworkDeviceId's within your tenant you must first run an export of Teams Phone devices from the Teams Admin center (TAC).
+> For a list of TeamworkDeviceId's within your tenant you must first run an export of Teams Phone devices from the Teams Admin center.
 
 ## Pre-requisites
 * PowerShell modules:
