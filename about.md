@@ -18,7 +18,8 @@ The Microsoft Teams Phone Software Updater is an alternative to using the Teams 
 * Works with all certified Teams phones.
   
 ## How it works
-Instead of assigning a phone number to every user, you use the phone number of a resource account associated with an Auto attendant for inbound and outbound PSTN calls. The Shared Calling policy configures the resource account used for outbound calls and emergency numbers that are used as emergency callback numbers.
+Instead of using the Teams admin center (TAC) via a web browser to schedule updates, this app uses Microsoft Graph PowerShell to connect to the customer's M365 tenant.
+When you have connected to the M365 tenant, it will dynamically update the 'Tenant Display Name' of the connected tenant.
 
 ![image](https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png)
 
