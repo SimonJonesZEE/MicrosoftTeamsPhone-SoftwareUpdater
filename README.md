@@ -14,7 +14,7 @@ The project is open source and welcomes contributions from the community.
 In progress...
 
 ## Support
-If you encounter any bugs or issues while using the scripts, please raise them as issues [here](https://github.com/jone5zee/MicrosoftTeamsPhone-SoftwareUpdates/issues) in this GitHub repository. You can also submit pull requests with your suggestions or improvements to the code. The project team appreciates your feedback and support. 
+If you encounter any bugs or issues while using the scripts, please raise them as issues [here](https://github.com/jone5zee/MicrosoftTeamsPhone-SoftwareUpdates/issues) in this GitHub repository. You can also submit pull requests with your suggestions or improvements to the code. The project team (me) appreciates your feedback and support. 
 
 Thank you for using this project and I hope you find it useful and helpful. 😊
 
