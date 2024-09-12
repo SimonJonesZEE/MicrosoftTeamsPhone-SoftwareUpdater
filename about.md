@@ -20,7 +20,7 @@ The Microsoft Teams Phone Software Updater is an alternative to using the Teams 
 ## How it works
 Instead of assigning a phone number to every user, you use the phone number of a resource account associated with an Auto attendant for inbound and outbound PSTN calls. The Shared Calling policy configures the resource account used for outbound calls and emergency numbers that are used as emergency callback numbers.
 
-![image]()
+![image](https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png)
 
 ## Page info
 
