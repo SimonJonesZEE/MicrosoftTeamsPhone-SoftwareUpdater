@@ -21,7 +21,7 @@ Shared Calling greater simplifies and accelerates the deployment of Teams Phone.
 ## How it works
 Instead of assigning a phone number to every user, you use the phone number of a resource account associated with an Auto attendant for inbound and outbound PSTN calls. The Shared Calling policy configures the resource account used for outbound calls and emergency numbers that are used as emergency callback numbers.
 
-![image](https://github.com/robwatts365/MicrosoftTeamsPhone-ConfigureSharedCalling/assets/65971102/964b3c58-12d1-4df7-b613-bfdd65e64e65)
+![image](https://github.com/simonjonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/assets/65971102/964b3c58-12d1-4df7-b613-bfdd65e64e65)
 
 ## Page info
 
