@@ -40,5 +40,5 @@ If you think something is missing, please raise them as issues [here](https://gi
 | Name | README.md |
 | :--- | :--- |
 | Author | Simon Jones ([@simonjonestsf](https://github.com/simonjonestsf)) |
-| **Version** | 2.0 |
-| **Date** | 13/08/2024 |
+| **Version** | 1.0 |
+| **Date** | 12/09/2024 |
