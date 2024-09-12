@@ -1,4 +1,4 @@
-# About Shared Calling
+# About Teams Phone Software Updater
 
 | [Home](README.md) | [About](about.md) | [Considerations](considerations.md) | [Deployment Guide](deployment.md) | [Support](support.md) | 
 | --- | --- | --- | --- | --- |
@@ -27,6 +27,6 @@ Instead of assigning a phone number to every user, you use the phone number of a
 
 | Page | About |
 | :--- | :--- |
-| Author | Simon Jones ([@joneszee](https://github.com/jonesZEE)) |
+| Author | Simon Jones ([@simonjonesZEE](https://github.com/simonjonesZEE)) |
 | **Version** | 1.0 |
 | **Date** | 12/09/2024 |
