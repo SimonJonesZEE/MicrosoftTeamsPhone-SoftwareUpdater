@@ -39,6 +39,6 @@ If you think something is missing, please raise them as issues [here](https://gi
 
 | Name | README.md |
 | :--- | :--- |
-| Author | Simon Jones ([@simonjonestsf](https://github.com/simonjonestsf)) |
+| Author | Simon Jones ([@simonjonesZEE](https://github.com/simonjonesZEE)) |
 | **Version** | 1.0 |
 | **Date** | 12/09/2024 |
