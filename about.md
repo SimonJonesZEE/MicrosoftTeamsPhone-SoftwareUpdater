@@ -1,4 +1,4 @@
-# About Teams Phone Software Updater
+# About MS Teams Phone Software Updater
 
 | [Home](README.md) | [About](about.md) | [Considerations](considerations.md) | [Deployment Guide](deployment.md) | [Support](support.md) | 
 | --- | --- | --- | --- | --- |
