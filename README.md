@@ -19,7 +19,7 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 * PowerShell modules:
   * Microsoft.Graph.Beta
     
-## How-to Guide
+## User Guide
 Please find step-by-step guidance on the [user guide](user.md) page.  
 If you think something is missing, please raise them as issues [here](https://github.com/simonjoneszee/MicrosoftTeamsPhone-SoftwareUpdater/issues).
 
