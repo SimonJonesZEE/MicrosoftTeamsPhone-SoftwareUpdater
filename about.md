@@ -37,6 +37,6 @@ The 'Q' option will close and exit the application removing any session files co
 
 | Page | About |
 | :--- | :--- |
-| Author | Simon Jones ([@simonjonesZEE](https://github.com/simonjonesZEE)) |
+| Author | Simon Jones ([@simonjoneszee](https://github.com/simonjoneszee)) |
 | **Version** | 1.0 |
-| **Date** | 12/09/2024 |
+| **Date** | 13/09/2024 |
