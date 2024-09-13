@@ -23,7 +23,7 @@ Once connected, the 'Tenant Display Name' will change to that of the connected t
 
 ![image](https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png)
 
-There are 6 x Options to choose from.
+There are multiple options to choose from.
 1. Archive - Creates a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
 2. Clear debug - Clears the contents of the 'debug.txt' file located in the 'logs' directory.
 3. Select file - This is mapped to the 'data' directory for a *.txt file selection.
