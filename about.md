@@ -28,7 +28,7 @@ There are 6 x Options to choose from.
 2. Clear debug - Clears the contents of the 'debug.txt' file located in the 'logs' directory.
 3. Select file - This is mapped to the 'data' directory for a *.txt file selection.
 4. Analyze file - This will analyze the selected file which contains one or more TeamworkDeviceId's.
-5. Update software - This will schedule software updates after file analysis.
+5. Update software - This will schedule software updates based on file analysis.
 6. Restart - This will restart all TeamworkDeviceId's contained within the selected file.
 
 The 'Q' option will close and exit the application removing any session files contained within the 'tmp' and 'logs' directories.
