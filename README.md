@@ -19,8 +19,8 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 * PowerShell modules:
   * Microsoft.Graph.Beta
     
-## Deployment Guide
-Please find step-by-step guidance on the [deployment guide](deployment.md) page.  
+## How-to Guide
+Please find step-by-step guidance on the [how-to guide](howto.md) page.  
 If you think something is missing, please raise them as issues [here](https://github.com/simonjoneszee/MicrosoftTeamsPhone-SoftwareUpdater/issues).
 
 ## Disclaimer
