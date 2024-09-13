@@ -29,7 +29,7 @@ If you think something is missing, please raise them as issues [here](https://gi
 
 ## Page info
 
-| Name | Readme |
+| Name | README |
 | :--- | :--- |
 | Author | Simon Jones ([@simonjoneszee](https://github.com/simonjoneszee)) |
 | **Version** | 1.0 |
