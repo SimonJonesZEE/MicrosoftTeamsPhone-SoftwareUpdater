@@ -25,7 +25,7 @@ If you think something is missing, please raise them as issues [here](https://gi
 
 ## Disclaimer
 > [!IMPORTANT]
-> These samples are provided "as is" without warranty of any kind. SACOMS further disclaims all implied warranties including without limitation any implied warranties of merchantability or of fitness for a particular purpose. The entire risk arising out of the use or performance of the samples remains with you. In no event shall SACOMS be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the samples.
+> _These samples are provided "as is" without warranty of any kind. SACOMS further disclaims all implied warranties including without limitation any implied warranties of merchantability or of fitness for a particular purpose. The entire risk arising out of the use or performance of the samples remains with you. In no event shall SACOMS be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the samples._
 
 ## Page info
 
