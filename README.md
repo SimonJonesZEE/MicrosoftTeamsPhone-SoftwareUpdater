@@ -20,7 +20,7 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
   * Microsoft.Graph.Beta
     
 ## How-to Guide
-Please find step-by-step guidance on the [how-to guide](howto.md) page.  
+Please find step-by-step guidance on the [user guide](user.md) page.  
 If you think something is missing, please raise them as issues [here](https://github.com/simonjoneszee/MicrosoftTeamsPhone-SoftwareUpdater/issues).
 
 ## Disclaimer
