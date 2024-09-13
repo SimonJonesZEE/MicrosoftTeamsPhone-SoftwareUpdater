@@ -1,7 +1,5 @@
 # Software Updater for Microsoft Teams Phone
 
-| [Home](README.md) | [About](about.md) | [Deployment Guide](deployment.md) | [Support](support.md) | --- | --- | --- | --- |
-
 | [Home](README.md) | [About](about.md) | [Deployment Guide](deployment.md) | [Support](support.md) | 
 | --- | --- | --- | --- |
 
