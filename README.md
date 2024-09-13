@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 
 ## Background
-This Microsoft Teams Phone Software Updater project will allow you to batch one or more TeamworkDeviceIds into a text file, the script will analyze the list of TeamworkDeviceIds determine which device needs upgrading, and schedule the upgrade accordingly. All this is done via an intuitive PowerShell GUI which provides reporting and status updates and the ability to restart devices remotely. Here you can find the source code, documentation, and instructions on how to use the script module. It is recommended that you download the latest release of the project directly from this GitHub repository. Find the latest release [here](https://github.com/jone5zee/).
+This Microsoft Teams Phone Software Updater project will allow you to batch one or more TeamworkDeviceIds into a text file, the script will analyze the list of TeamworkDeviceIds determine which device needs upgrading, and schedule the upgrade accordingly. All this is done via an intuitive PowerShell GUI which provides reporting and status updates and the ability to restart devices remotely. Here you can find the source code, documentation, and instructions on how to use the script module. It is recommended that you download the latest release of the project directly from this GitHub repository. Find the latest release [here](https://github.com/simonjoneszee/).
 
 The project aims to make it easier and faster for technical consultants to batch process software updates to Teams phone devices. 
 
@@ -31,6 +31,6 @@ If you think something is missing, please raise them as issues [here](https://gi
 
 | Name | README.md |
 | :--- | :--- |
-| Author | Simon Jones ([@SimonJonesZEE](https://github.com/SimonJonesZEE)) |
+| Author | Simon Jones ([@simonjoneszee](https://github.com/simonjoneszee)) |
 | **Version** | 1.0 |
 | **Date** | 13/09/2024 |
