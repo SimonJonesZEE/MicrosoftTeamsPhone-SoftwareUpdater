@@ -19,7 +19,7 @@ If you encounter any bugs or issues while using the scripts, please raise them a
 Thank you for using this project and I hope you find it useful and helpful. 😊
 
  > [!TIP]
-> As a starting place, please review the [Considerations tab](considerations.md).
+> As a starting place, please review the [Considerations for Teams devices](considerations.md).
 
 ## Pre-requisites
 * PowerShell modules:
