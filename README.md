@@ -15,9 +15,6 @@ If you encounter any bugs or issues while using the scripts, please raise them a
 
 Thank you for using this project and I hope you find it useful and helpful. 😊
 
- > [!TIP]
-> As a starting place, please review the [Prerequisites](prerequisites.md).
-
 ## Pre-requisites
 * PowerShell modules:
   * Microsoft.Graph.Beta
