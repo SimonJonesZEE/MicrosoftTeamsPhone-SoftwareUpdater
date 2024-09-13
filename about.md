@@ -18,11 +18,19 @@ The Microsoft Teams Phone Software Updater is an alternative to using the Teams 
 * Works with all certified Teams phones.
   
 ## How it works
-Instead of using the Teams admin center (TAC) via a web browser to schedule updates, this app uses Microsoft Graph PowerShell to connect to the customer's M365 tenant.
-When you have connected to the M365 tenant, it will dynamically update the 'Tenant Display Name' of the connected tenant.
+Instead of using the Teams admin center (TAC) via a web browser to schedule updates, this app uses Microsoft Graph PowerShell to connect to an M365 tenant.
+Once connected, the 'Tenant Display Name' will change to that of the connected tenant.
 
 ![image](https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png)
 
+There are 6 x Options to choose from.
+1. Archive - Creates a compressed ZIP archive from specified files in the 'tmp' directory and places the ZIP file in the 'arc' directory.
+2. Clear debug - Clears the contents of the 'debug.txt' file located in the 'logs' directory.
+3. Select file - This is mapped to the 'data' directory for a *.txt file selection.
+4. Analyze file - This will analyze the selected file which contains one or more TeamworkDeviceId's.
+5. Update software - This will schedule software updates after file analysis.
+6. Restart - This will restart all TeamworkDeviceId's contained within the selected file.
+   
 ## Page info
 
 | Page | About |
