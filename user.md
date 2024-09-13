@@ -7,6 +7,6 @@
 
 | Page | User Guide |
 | :--- | :--- |
-| Author | Simon Jones ([@SimonJonesZEE](https://github.com/SimonJonesZEE)) |
+| Author | Simon Jones ([@simonjoneszee](https://github.com/simonjoneszee)) |
 | **Version** | 1.0 |
 | **Date** | 13/09/2024 |
