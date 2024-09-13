@@ -1,4 +1,4 @@
-# About Software Updater
+# About Software Updater for Teams Phone devices
 
 | [Home](README.md) | [About](about.md) | [User Guide](user.md) | [Support](support.md) | 
 | --- | --- | --- | --- |
