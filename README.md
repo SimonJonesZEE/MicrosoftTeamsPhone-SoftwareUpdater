@@ -11,7 +11,7 @@ The project aims to make it easier and faster for technical consultants to batch
 The project is open source and welcomes contributions from the community. 
 
 ## Documentation
-In progress...
+> For further guidance on how to use this app, please refer to the [Deployment Guide](deployment.md).
 
 ## Support
 If you encounter any bugs or issues while using the scripts, please raise them as issues [here](https://github.com/jone5zee/MicrosoftTeamsPhone-SoftwareUpdates/issues) in this GitHub repository. You can also submit pull requests with your suggestions or improvements to the code. The project team (me) appreciates your feedback and support. 
