@@ -9,6 +9,6 @@ If you encounter any bugs or issues while using the scripts, please raise them a
 
 | Page | Support |
 | :--- | :--- |
-| Author | Simon Jones ([@SimonJonesZEE](https://github.com/SimonJonesZEE)) |
+| Author | Simon Jones ([@simonjoneszee](https://github.com/simonjoneszee)) |
 | **Version** | 1.0 |
 | **Date** | 13/09/2024 |
