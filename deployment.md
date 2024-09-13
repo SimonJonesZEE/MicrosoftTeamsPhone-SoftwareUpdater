@@ -5,7 +5,7 @@
 
 ## Page info
 
-| Name | deployment.md |
+| Name | Deployment Guide |
 | :--- | :--- |
 | Author | Simon Jones ([@simonjoneszee](https://github.com/simonjoneszee)) |
 | **Version** | 1.0 |
