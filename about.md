@@ -29,7 +29,7 @@ There are multiple options to choose from.
 #### 2. Clear debug
 > Clears the contents of the 'debug.txt' file located in the 'logs' directory.
 #### 3. Select file 
-> This defaults to the 'data' directory to select a *.txt file from.
+> This defaults to the 'data' directory for text file selection.
 #### 4. Analyze file 
 > This will analyze the selected file which contains one or more TeamworkDeviceId's.
 #### 5. Update software
