@@ -31,7 +31,7 @@ There are multiple options to choose from.
 #### 3. Select file 
 > This defaults to the 'data' directory for text file selection.
 #### 4. Analyze file 
-> This will analyze the selected file which contains one or more TeamworkDeviceId's.
+> This will analyze the selected text file which contains one or more TeamworkDeviceId's.
 #### 5. Update software
 > Schedules software updates based on the file analysis.
 #### 6. Restart 
