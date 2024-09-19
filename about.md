@@ -33,7 +33,7 @@ There are multiple options to choose from.
 #### 4. Analyze file 
 > This will analyze the selected text file which contains one or more TeamworkDeviceId's.
 #### 5. Update software
-> Schedules software updates based on the file analysis.
+> Schedules software updates on devices if applicable after file analysis.
 #### 6. Restart 
 > Initiates a restart of all TeamworkDeviceId's within the selected text file.
 #### Q. Quit
