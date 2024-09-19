@@ -35,7 +35,7 @@ There are multiple options to choose from.
 #### 5. Update software
 > Schedule software updates based on file analysis.
 #### 6. Restart 
-> Initiates a restart of all TeamworkDeviceId's contained within the selected file.
+> Initiates a restart of all TeamworkDeviceId's within the selected text file.
 #### Q. Quit
 > This will close and exit the application removing any session files contained within the 'tmp' and 'logs' directories.
    
