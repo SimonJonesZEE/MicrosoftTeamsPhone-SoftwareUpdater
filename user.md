@@ -18,6 +18,9 @@
   >  Please do not install this module to the **%Windir%\System32\WindowsPowerShell\v1.0\Modules** directory as this is reserved for modules that ship with Windows.
 
 ## 2. How-to
+1. Launch the PowerShell console and type **Import-Module TeamsPhoneSoftwareUpdater**
+2. This will prompt for you to sign in to your account using MFA.
+3. 
 
 
 ## Page info
