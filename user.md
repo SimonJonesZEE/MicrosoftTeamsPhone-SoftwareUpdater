@@ -61,12 +61,12 @@ You will then be prompted for user input.<br/>
 > [!NOTE]
 > Inputting [N] No or left blank will return you back to the main menu.
    
-        Enter a site name or code: LDNOffice.
+        Enter a site name or code: LDNOffice
         
 > [!NOTE]
 > Please omit the use of spaces in the site name or code.<br/>
 
-Then navigate and select the text file you want to use.<br/>
+Using the file explorer, find and select the text file you want to use.<br/>
    
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/notepad.png" width="350" height="250"> 
 
