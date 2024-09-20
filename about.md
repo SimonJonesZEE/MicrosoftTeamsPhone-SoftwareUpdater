@@ -19,7 +19,7 @@ The Software Updater for Teams Phone is an alternative to using the Teams admin 
   
 ## How it works
 Instead of using the Teams admin center (TAC) via a web browser to schedule updates, this app uses Microsoft Graph PowerShell to connect to an M365 tenant.
-Once connected, the 'Tenant Display Name' will change to that of the connected tenant, along with an intuitive gui menu.
+Once connected, the 'Tenant Display Name' will change to that of the connected tenant, along with an intuitive gui menu.<br/>
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png" width="350" height="300"> 
 
