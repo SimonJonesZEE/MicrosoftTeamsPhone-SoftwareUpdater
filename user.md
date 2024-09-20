@@ -41,7 +41,7 @@
 
 * **4. Analyze file** <br/> This will perform an analysis of the selected text file, which contains one or more TeamworkDeviceIds.
 
-* **4. Update software** <br/> This will perform an analysis of the selected text file, which contains one or more TeamworkDeviceIds.
+* **4. Update software** <br/> This will schedule software updates on devices based on the results of the file analysis.
 
 
 ## Page info
