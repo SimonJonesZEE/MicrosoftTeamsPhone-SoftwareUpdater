@@ -5,17 +5,19 @@
 
 ## 1. Pre-requisites
 * PowerShell modules:
-  * Microsoft.Graph.Beta
+  * Microsoft.Graph.Beta (latest)
   * Microsoft Entra roles
-    - Cloud Application Administrator
+    - Cloud Application Administrator (preferred)
     - Teams Admnistrator
  > [!NOTE]
-  >  The scripts folder structure will be created for you when its first run.
+  >  The modules folder structure will be created for you when its first run.
+
 ## 2. Installation
 * Install the script module to your **$HOME\Documents\WindowsPowerShell\Modules** directory.
 > [!WARNING]
   >  Please do not install this module to the **%Windir%\System32\WindowsPowerShell\v1.0\Modules** directory as this is reserved for modules that ship with Windows.
 
+## 2. How-to
 
 
 ## Page info
