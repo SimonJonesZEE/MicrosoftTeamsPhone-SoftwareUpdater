@@ -76,7 +76,8 @@ The site name or code (LDNOFFICE) and the selected file (devices.txt) will appea
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/selected-file.png" width="350" height="290"> 
    
-**Step 2:** The next thing is to analyse the selected text file by using option **4. Analyze file**, this will verify each TeamworkDeviceId to see if there any updates required.
+**Step 2:** The next thing is to analyse the selected text file by using option **4. Analyze file**, this will verify each TeamworkDeviceId to see if there any updates required.<br/>
+
 The main updates this app verifies are:<br/>
 - [ ] Teams admin agent
 - [x] Firmware
