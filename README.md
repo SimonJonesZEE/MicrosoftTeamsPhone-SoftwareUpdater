@@ -17,7 +17,10 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 
 ## Pre-requisites
 * PowerShell modules:
-  * Microsoft.Graph.Beta
+  * Microsoft.Graph.Beta (latest)
+* Microsoft Entra roles
+    - Cloud Application Administrator (preferred)
+    - Teams Admnistrator
     
 ## User Guide
 Please find step-by-step guidance on the [user guide](user.md) page.  
