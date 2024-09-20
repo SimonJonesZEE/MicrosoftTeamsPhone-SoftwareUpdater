@@ -32,7 +32,7 @@
 **Option 1. Archive** <br/> This will create a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
 > [!TIP]
 > This is useful if you want to archive the session files before exiting or selecting a new file.
-**Option 2. Clear debug** <br/> This will create a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
+**Option 2. Clear debug** <br/> Clears the contents of the 'debug.txt' if generated; this file is located in the 'logs' directory.
 
 
 ## Page info
