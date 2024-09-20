@@ -33,6 +33,7 @@
 > [!TIP]
 > This is useful if you want to archive the session files before exiting or selecting a new file.
 * **Option 2. Clear debug** <br/> This will clear the contents of the 'debug.txt' if generated; the file is located in the 'logs' directory.
+* **Option 3. Select file** <br/> 
 
 
 ## Page info
