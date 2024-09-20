@@ -47,6 +47,10 @@
 
 * **6. Restart** <br/> Initiates a restart of all TeamworkDeviceIds within the selected text file.
 
+* **7. Quit** <br/> Initiates a restart of all TeamworkDeviceIds within the selected text file.
+> [!TIP]
+> Remember to Archive before exiting the application if you need to have an audit trail.
+
 ## Page info
 
 | Page | User Guide |
