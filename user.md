@@ -47,9 +47,8 @@
 
 * **6. Restart** <br/> Initiates a restart of all TeamworkDeviceIds within the selected text file.
 > [!TIP]
-> If you only want certain devices restarting, then re-select a text file that only contain these TeamworkDeviceIds.
-> > [!NOTE]
-> Use this option in isolation either before or after using the Update software option.
+> If you only want certain devices restarting, then re-select a text file that only contain these TeamworkDeviceIds.<br/>
+> Only use this option in isolation either before or after using the Update software option.
 
 
 
