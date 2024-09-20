@@ -45,11 +45,11 @@
 > [!NOTE]
 > This option will only work if the file analysis detects one or more devices requiring updates.
 
-* **6. Restart** <br/> Initiates a restart of all TeamworkDeviceIds within the selected text file.
+* **6. Restart** <br/> This will initiate a restart of all TeamworkDeviceIds within the selected text file.
 
-* **7. Quit** <br/> Initiates a restart of all TeamworkDeviceIds within the selected text file.
+* **7. Quit** <br/> This will close and exit the PowerShell GUI removing any session files contained within the 'tmp' and 'logs' directories.
 > [!TIP]
-> Remember to Archive before exiting the application if you need to have an audit trail.
+> Remember to archive before exiting the application if you want an audit trail.
 
 ## Page info
 
