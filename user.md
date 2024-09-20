@@ -49,7 +49,7 @@
 
 * **7. Quit** <br/> This will close and exit the PowerShell GUI removing any session files contained within the 'tmp' and 'logs' directories.
 > [!TIP]
-> Remember to archive before exiting the application if you want an audit trail.
+> Remember to archive before exiting the application if you want an audit trail of previous updates.
 
 ## 5. How-to
 
