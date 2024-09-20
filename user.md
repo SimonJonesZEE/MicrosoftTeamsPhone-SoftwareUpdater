@@ -52,15 +52,16 @@
 > Remember to archive before exiting the application if you want an audit trail of the previous updates.
 
 ## 5. How-to
-**Step 1:**<br/>
-Once authenticated to start using the Microsoft Teams Phone Software Updater, we must first select a text file that contains one or more TeamworkDeviceIds by selecting option **3. Select file**.<br/>
-You will be prompted for user input...<br/>
+Step 1: Once authenticated to start using the Microsoft Teams Phone Software Updater, we must first select a text file that contains one or more TeamworkDeviceIds by selecting option **3. Select file**.
+        then you will be prompted for user input.<br/>
    
-**Are you sure you want to load a new file? [Y] Yes [N] No: Y**<br/>
+        Are you sure you want to load a new file? [Y] Yes [N] No: Y
+   
 > [!NOTE]
 > Inputting [N] No or left blank will return you back to the main menu.
    
-**Enter a site name or code: LDNOffice**<br/>
+        Enter a site name or code: e.g., LDNOffice.
+        
 > [!NOTE]
 > Please omit the use of spaces in the site name or code.<br/>
 
