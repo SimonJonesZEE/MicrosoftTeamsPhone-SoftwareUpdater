@@ -89,6 +89,9 @@ After the analysis has completed, you will see how many devices have been verifi
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update.png" width="350" height="290"> 
 
+Every time a file analysis is performed, a 'did.csv' session file is created, which is located in the 'tmp' directory.<br/>
+
+
 
 
 ## Page info
