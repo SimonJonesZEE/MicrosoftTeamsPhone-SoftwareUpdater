@@ -46,6 +46,9 @@
 > This option will only work if the file analysis detects one or more devices requiring updates.
 
 * **6. Restart** <br/> Initiates a restart of all TeamworkDeviceIds within the selected text file.
+> [!TIP]
+> If you only want certain devices restarting, then re-select a text file that only contain these TeamworkDeviceIds.
+
 
 
 ## Page info
