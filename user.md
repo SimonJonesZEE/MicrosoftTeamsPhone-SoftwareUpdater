@@ -39,6 +39,8 @@
   
 * **3. Select file** <br/> This will default to the 'data' directory when selecting a text file; alternatively, you can browse elsewhere using the file explorer.
 
+* **4. Analyze file** <br/> This will default to the 'data' directory when selecting a text file; alternatively, you can browse elsewhere using the file explorer.
+
 
 ## Page info
 
