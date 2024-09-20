@@ -17,7 +17,7 @@
 > [!WARNING]
   >  Please do not install this module to the **%Windir%\System32\WindowsPowerShell\v1.0\Modules** directory as this is reserved for modules that ship with Windows.
 
-## 2. Execution
+## 3. Execution
 1. Launch the PowerShell console and type **Import-Module TeamsPhoneSoftwareUpdater**
 2. This will prompt for you to sign in to your account using MFA.<br/>
 
@@ -27,7 +27,7 @@
 
    <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png" width="350" height="300"> 
    
-## 3. Options
+## 4. Options
 
 * **1. Archive** <br/> This will create a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
 > [!TIP]
@@ -51,7 +51,7 @@
 > [!TIP]
 > Remember to archive before exiting the application if you want an audit trail.
 
-## 3. How-to
+## 5. How-to
 
 ## Page info
 
