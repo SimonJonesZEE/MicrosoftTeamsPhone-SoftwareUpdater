@@ -26,10 +26,12 @@
 3. Once signed in, you will see a GUI options menu, and the 'TENANT DISPLAY NAME' will change to that of the connected tenant.<br/>
 
    <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png" width="350" height="300"> 
+   
+## 3. Options
 
-4. Option 1. Archive will create a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
+**Option 1. Archive** <br/> This will create a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
 > [!TIP]
-> This is useful if you want to archive the did.csv and log files before exiting or selecting a new file.
+> This is useful if you want to archive the session files before exiting or selecting a new file.
 
 
 ## Page info
