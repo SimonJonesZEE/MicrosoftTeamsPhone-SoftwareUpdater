@@ -29,6 +29,7 @@
 
 4. Option 1. Archive will create a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
 > [!TIP]
+> This is useful if you want to archive the did.csv and log files before exiting or selecting a new file.
 
 
 ## Page info
