@@ -25,19 +25,19 @@ Once connected, the 'Tenant Display Name' will change to that of the connected t
 
 There are multiple options to choose from.
 #### 1. Archive
-> Creates a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
+> Creates a compressed ZIP archive of the session files.
 #### 2. Clear debug
-> Clears the contents of the 'debug.txt' file located in the 'logs' directory.
+> Clears the contents of the debug file.
 #### 3. Select file 
-> This defaults to the 'data' directory for text file selection.
+> This will allow you to browse for a file using file explorer.
 #### 4. Analyze file 
-> This will analyze the selected text file which contains one or more TeamworkDeviceId's.
+> This will analyze the selected file which contains one or more TeamworkDeviceIds.
 #### 5. Update software
-> Schedules software updates on devices after file analysis.
+> Schedules software updates on Teams Phone devices.
 #### 6. Restart 
 > Initiates a restart of all TeamworkDeviceId's within the selected text file.
 #### Q. Quit
-> This will close and exit the PowerShell GUI removing any session files contained within the 'tmp' and 'logs' directories.
+> This will close and exit the PowerShell GUI.
    
 ## Page info
 
