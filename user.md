@@ -6,7 +6,7 @@
 ## 1. Pre-requisites
 * PowerShell modules:
   * Microsoft.Graph.Beta (latest)
-  * Microsoft Entra roles
+* Microsoft Entra roles
     - Cloud Application Administrator (preferred)
     - Teams Admnistrator
  > [!NOTE]
