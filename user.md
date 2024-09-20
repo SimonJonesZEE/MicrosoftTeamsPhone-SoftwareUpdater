@@ -27,8 +27,8 @@
 
    <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png" width="350" height="300"> 
 
-4. Option 1. Archive 
-
+4. Option 1. Archive will create a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
+> [!TIP]
 
 
 ## Page info
