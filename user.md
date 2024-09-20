@@ -43,9 +43,9 @@
 
 * **5. Update software** <br/> This will schedule software updates on devices if applicable.
 > [!NOTE]
-> This option will only work if the file analysis detects one or more devices require updating.
+> This option will only work if the file analysis detects one or more devices requiring updates.
 
-* **6. Restart** <br/> This will schedule software updates on devices if applicable.
+* **6. Restart** <br/> Initiates a restart of all TeamworkDeviceIds within the selected text file.
 
 
 ## Page info
