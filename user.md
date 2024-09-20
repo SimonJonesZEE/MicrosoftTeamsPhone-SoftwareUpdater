@@ -17,7 +17,7 @@
 > [!WARNING]
   >  Please do not install this module to the **%Windir%\System32\WindowsPowerShell\v1.0\Modules** directory as this is reserved for modules that ship with Windows.
 
-## 2. How-to
+## 2. Execution
 1. Launch the PowerShell console and type **Import-Module TeamsPhoneSoftwareUpdater**
 2. This will prompt for you to sign in to your account using MFA.<br/>
 
@@ -50,6 +50,8 @@
 * **7. Quit** <br/> This will close and exit the PowerShell GUI removing any session files contained within the 'tmp' and 'logs' directories.
 > [!TIP]
 > Remember to archive before exiting the application if you want an audit trail.
+
+## 3. How-to
 
 ## Page info
 
