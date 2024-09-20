@@ -66,6 +66,8 @@ You will be prompted for user input...<br/>
 Navigate and select the text file you want to use.<br/>
    
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/notepad.png" width="350" height="250"> 
+
+Then **Press [C] to continue:**
    
    
 
