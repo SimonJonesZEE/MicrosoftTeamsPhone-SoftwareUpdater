@@ -29,11 +29,15 @@
    
 ## 3. Options
 
-* **Option 1. Archive** <br/> This will create a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
+* **1. Archive** <br/> This will create a compressed ZIP archive from specified files in the 'tmp' and 'logs' directories and places the ZIP file in the 'arc' directory.
 > [!TIP]
 > This is useful if you want to archive the session files before exiting or selecting a new file.
-* **Option 2. Clear debug** <br/> This will clear the contents of the 'debug.txt' if generated; the file is located in the 'logs' directory.
-* **Option 3. Select file** <br/> This will default to the 'data' directory when selecting a text file; alternatively, you can browse elsewhere using the file explorer.
+
+* **2. Clear debug** <br/> This will clear the contents of the 'debug.txt' located in the 'logs' directory.
+> [!NOTE]
+> The debug.txt file is only generated if an exception occurs.
+  
+* **3. Select file** <br/> This will default to the 'data' directory when selecting a text file; alternatively, you can browse elsewhere using the file explorer.
 
 
 ## Page info
