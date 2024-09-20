@@ -52,6 +52,7 @@
 > Remember to archive before exiting the application if you want an audit trail of the previous updates.
 
 ## 5. How-to
+**Step 1:**<br/>
 Once authenticated to start using the Microsoft Teams Phone Software Updater, we must first select a text file that contains one or more TeamworkDeviceIds by selecting option **3. Select file**.<br/>
 You will be prompted for user input...<br/>
    
