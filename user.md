@@ -19,13 +19,15 @@
 
 ## 2. How-to
 1. Launch the PowerShell console and type **Import-Module TeamsPhoneSoftwareUpdater**
-2. This will prompt for you to sign in to your account using MFA.
-   
-   ![image](https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/sign-in.png)
-   
-4. Once signed in, you will see a GUI options menu, and the 'TENANT DISPLAY NAME' will change to that of the connected tenant.
+2. This will prompt for you to sign in to your account using MFA.<br/>
 
-   ![image](https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png)
+   <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/sign-in.png" width="350" height="250"> 
+   
+4. Once signed in, you will see a GUI options menu, and the 'TENANT DISPLAY NAME' will change to that of the connected tenant.<br/>
+
+   <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/options-menu-gui.png" width="350" height="300"> 
+
+5. 
 
 
 
