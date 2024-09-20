@@ -87,7 +87,7 @@ The main updates this app verifies are:<br/>
 
 After the analysis has completed, you will see how many devices have been verified next to **4. Analyze file (3)** and how many devices require updates next to **5. Update software (2)**.
 
-<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update.png" width="350" height="290"> 
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update.png" width="350" height="300"> 
 
 
 
