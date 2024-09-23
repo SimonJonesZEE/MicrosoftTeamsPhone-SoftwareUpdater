@@ -93,17 +93,19 @@ Every time a file analysis is performed, a 'did.csv' session file is created, wh
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190">
 
-- Columns
-  - HealthStatus - 
-  - Id - 
-  - DisplayName - 
-  - SoftwareType - 
-  - Status - 
-  - SID - 
-  - AvailableVersion -
-  - CurrentVersion -
-  - SoftwareFreshness -
-  - REP -
+**HealthStatus:** - This will be stamped with 'nonUrgent' if the respective software type requires a software update.
+> [!NOTE]
+> If the HealthStatus is showing as 'offline' against a sub-set of device software types, these will be excluded from software updates.
+
+**Id:** The Id of the Teams Phone device.<br/>
+**DisplayName:** The display name of the Teams Phone device.<br/>
+**SoftwareType:** Each TeamworkDeviceId is duplicated threee times one for each software type being verified.<br/>
+**Status:** Provides an update to the progress of the software update, e.g., 'Queued', 'InProgress, 'Successful'.<br/>
+**SID:** <br/>
+**vailableVersion:** <br/>
+**CurrentVersion:** <br/>
+**SoftwareFreshness:** <br/>
+**REP:** <br/>
 
 
 
