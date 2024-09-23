@@ -52,7 +52,7 @@
 > Remember to archive before exiting the application if you want an audit trail of the previous updates.
 
 ## 5. How-to
-**Step 1:** Once authenticated to start using the Microsoft Teams Phone Software Updater, we must first select a text file that contains one or more TeamworkDeviceIds by selecting option **3. Select file**.<br/>
+☑️ **Step 1:** Once authenticated to start using the Microsoft Teams Phone Software Updater, we must first select a text file that contains one or more TeamworkDeviceIds by selecting option **3. Select file**.<br/>
 
 You will then be prompted for user input.<br/>
    
@@ -76,7 +76,7 @@ The site name or code (LDNOFFICE) and the selected file (devices.txt) will appea
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/selected-file.png" width="350" height="290"> 
    
-**Step 2:** The next thing is to analyse the selected text file by using option **4. Analyze file**, this will verify each TeamworkDeviceId to see if there any updates required.<br/>
+☑️ **Step 2:** The next thing is to analyse the selected text file by using option **4. Analyze file**, this will verify each TeamworkDeviceId to see if there any updates required.<br/>
 
 The main updates this app verifies are:<br/>
 - [ ] Teams admin agent
