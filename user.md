@@ -52,7 +52,7 @@
 > Remember to archive before exiting the application if you want an audit trail of the previous updates.
 
 ## 5. How-to
-**Step 1:** <br/>
+<mark>**STEP 1:**</mark><br/>
 
 Once authenticated to start using the Microsoft Teams Phone Software Updater, we must first select a text file that contains one or more TeamworkDeviceIds by selecting option **3. Select file**.<br/>
 
@@ -78,7 +78,7 @@ The site name or code (LDNOFFICE) and the selected file (devices.txt) will appea
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/selected-file.png" width="350" height="290"> 
    
-**Step 2:** <br/>
+<mark>**STEP 2:**</mark><br/>
 
 The next thing is to analyse the selected text file by using option **4. Analyze file**, this will verify each TeamworkDeviceId to see if there any updates required.<br/>
 
@@ -130,7 +130,7 @@ This will either state 'updateAvailable' or 'latest'.
 > **Rep:**
 This is used to record the update being applied to the device and compared against the device's current version on the tenant. If the equality comparison in the script matches these two values, the replication in the tenant is complete, and the 'Rep' value is then null. If the equality comparison does not match, then the Rep value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once replication is complete.
 
-**Step 3:** <br/>
+<mark>**STEP 3:**</mark><br/>
 
 After file analysis please review the 'did.csv' session file, and then select option **5. Update software (2)**.
 :not
