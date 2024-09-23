@@ -115,7 +115,7 @@ Provides an update on the progress of the software update, e.g., 'Queued', 'InPr
 This is a unique identifier that is generated automatically for each update.
 
 > **AvailableVersion:**
-This will be populated if there is an available update for the device.
+Only populated if there is an available update for the device.
 
 > **CurrentVersion:**
 The current version of software the device is running.
