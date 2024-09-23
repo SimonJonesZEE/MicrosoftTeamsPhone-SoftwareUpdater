@@ -133,7 +133,7 @@ This is used to record the update being applied to the device and compared again
 <mark>**STEP 3:**</mark><br/>
 
 After file analysis please review the 'did.csv' session file, and then select option **5. Update software (2)**.
-:not
+
 
 
 ## Page info
