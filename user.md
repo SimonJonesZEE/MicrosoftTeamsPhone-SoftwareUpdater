@@ -93,9 +93,17 @@ Every time a file analysis is performed, a 'did.csv' session file is created, wh
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190">
 
-* **Column A: HealthStatus** - Insert discription
-* **Column B: Id** - Insert discription
-* **Column C: DisplayName** - Insert discription
+- Columns
+  - HealthStatus - 
+  - Id - 
+  - DisplayName - 
+  - SoftwareType - 
+  - Status - 
+  - SID - 
+  - AvailableVersion -
+  - CurrentVersion -
+  - SoftwareFreshness -
+  - REP -
 
 
 
