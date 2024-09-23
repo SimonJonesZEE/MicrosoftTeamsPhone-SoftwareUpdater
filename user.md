@@ -91,7 +91,11 @@ After the analysis has completed, you will see how many devices have been verifi
 
 Every time a file analysis is performed, a 'did.csv' session file is created, which is located in the 'tmp' directory.<br/>
 
-<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190"> 
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190">
+
+* **Column A: HealthStatus** - Insert discription
+* **Column B: Id** - Insert discription
+* **Column C: DisplayName** - Insert discription
 
 
 
