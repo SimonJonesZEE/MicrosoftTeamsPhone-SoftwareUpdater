@@ -126,7 +126,7 @@ This will either state 'updateAvailable' or 'latest'.
 > **Rep:**
 This is used to record the update being applied to the device and compared against the device's current version on the tenant. If the equality comparison in the script matches these two values, the replication in the tenant is complete, and the 'Rep' value is then null. If the equality comparison does not match, then the Rep value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once replication is complete.
 
-☑️**Step 3:** After file analysis please review the 'did.csv' session file, and then select option **5. Update software (2)**.
+☑️ **Step 3:** After file analysis please review the 'did.csv' session file, and then select option **5. Update software (2)**.
 
 
 ## Page info
