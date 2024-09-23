@@ -100,7 +100,7 @@ Every time a file analysis is performed, a 'did.csv' session file is created, wh
 **Id:** The Id of the Teams Phone device.<br/>
 **DisplayName:** The display name of the Teams Phone device.<br/>
 **SoftwareType:** Each TeamworkDeviceId is duplicated threee times one for each software type being verified.<br/>
-**Status:** Provides an update to the progress of the software update, e.g., 'Queued', 'InProgress, 'Successful'.<br/>
+**Status:** Provides an update on the progress of the software update, e.g., 'Queued', 'InProgress, 'Successful'.<br/>
 **SID:** <br/>
 **vailableVersion:** <br/>
 **CurrentVersion:** <br/>
