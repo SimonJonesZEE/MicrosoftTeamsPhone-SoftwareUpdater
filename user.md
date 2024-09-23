@@ -93,48 +93,38 @@ Every time a file analysis is performed, a 'did.csv' session file is created, wh
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190">
 
-> **HealthStatus**
-
+> **HealthStatus:**
 This will be stamped with 'nonUrgent' if the respective software type requires a software update.
 
 > [!NOTE]
 > If the HealthStatus is showing as 'offline' against a sub-set of device software types, these will be excluded from software updates.
 
-> **Id**
-
+> **Id:**
 The identification of the Teams Phone device.
 
-> **DisplayName**
-
+> **DisplayName:**
 The display name of the Teams Phone device.
 
-> **SoftwareType**
+> **SoftwareType:**
+This is duplicated three times for each TeamworkDeviceId, one for each software type being verified.
 
-Each TeamworkDeviceId is duplicated threee times one for each software type being verified.
-
-> **Status**
-
+> **Status:**
 Provides an update on the progress of the software update, e.g., 'Queued', 'InProgress, 'Successful'.
 
-> **SID**
+> **SID:**
+This is a unique identifier that is generated automatically for each update.
 
-text
+> **AvailableVersion:**
+This will be populated if there is an available update for the device.
 
-> **AvailableVersion**
+> **CurrentVersion:**
+The current version of software the device is running.
 
-text
+> **SoftwareFreshness:**
+This will either state 'updateAvailable' or 'latest'.
 
-> **CurrentVersion**
-
-text
-
-> **SoftwareFreshness**
-
-text
-
-> **Rep**
-
-The 'Rep' column is used to snapshot the update being applied to the device; this will be used as a local representation (client side) and compared against the device's current version on the tenant (server side). If the equality comparison in the script matches these two values, the replication in the tenant is complete, and the 'Rep' value is then null. If the equality comparison does not match, then the Rep value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once replication is complete.
+> **Rep:**
+This is used to record the update being applied to the device; this will be used as a local representation (client side) and compared against the device's current version on the tenant (server side). If the equality comparison in the script matches these two values, the replication in the tenant is complete, and the 'Rep' value is then null. If the equality comparison does not match, then the Rep value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once replication is complete.
 
 
 
