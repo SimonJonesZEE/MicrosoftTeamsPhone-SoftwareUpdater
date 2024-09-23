@@ -93,19 +93,49 @@ Every time a file analysis is performed, a 'did.csv' session file is created, wh
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190">
 
-**HealthStatus:** - This will be stamped with 'nonUrgent' if the respective software type requires a software update.
+> **HealthStatus**
+
+This will be stamped with 'nonUrgent' if the respective software type requires a software update.
+
 > [!NOTE]
 > If the HealthStatus is showing as 'offline' against a sub-set of device software types, these will be excluded from software updates.
 
-**Id:** The Id of the Teams Phone device.<br/>
-**DisplayName:** The display name of the Teams Phone device.<br/>
-**SoftwareType:** Each TeamworkDeviceId is duplicated threee times one for each software type being verified.<br/>
-**Status:** Provides an update on the progress of the software update, e.g., 'Queued', 'InProgress, 'Successful'.<br/>
-**SID:** <br/>
-**vailableVersion:** <br/>
-**CurrentVersion:** <br/>
-**SoftwareFreshness:** <br/>
-**REP:** <br/>
+> **Id**
+
+The identification of the Teams Phone device.
+
+> **DisplayName**
+
+The display name of the Teams Phone device.
+
+> **SoftwareType**
+
+Each TeamworkDeviceId is duplicated threee times one for each software type being verified.
+
+> **Status**
+
+Provides an update on the progress of the software update, e.g., 'Queued', 'InProgress, 'Successful'.
+
+> **SID**
+
+text
+
+> **AvailableVersion**
+
+text
+
+> **CurrentVersion**
+
+text
+
+> **SoftwareFreshness**
+
+text
+
+> **Rep**
+
+The 'Rep' column is used to snapshot the update being applied to the device; this will be used as a local representation (client side) and compared against the device's current version on the tenant (server side). If the equality comparison in the script matches these two values, the replication in the tenant is complete, and the 'Rep' value is then null. If the equality comparison does not match, then the Rep value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once replication is complete.
+
 
 
 
