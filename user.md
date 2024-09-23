@@ -52,11 +52,11 @@
 > Remember to archive before exiting the application if you want an audit trail of the previous updates.
 
 ## 5. How-to
-<mark>**STEP 1:**</mark><br/>
+<mark>**STEP 1:**</mark>  
 
-Once authenticated to start using the Microsoft Teams Phone Software Updater, we must first select a text file that contains one or more TeamworkDeviceIds by selecting option **3. Select file**.<br/>
+Once authenticated to start using the Microsoft Teams Phone Software Updater, we must first select a text file that contains one or more TeamworkDeviceIds by selecting option **3. Select file**.  
 
-You will then be prompted for user input.<br/>
+You will then be prompted for user input.  
    
          Are you sure you want to load a new file? [Y] Yes [N] No: Y
    
@@ -66,23 +66,23 @@ You will then be prompted for user input.<br/>
         Enter a site name or code: LDNOffice
         
 > [!NOTE]
-> Please omit the use of spaces in the site name or code.<br/>
+> Please omit the use of spaces in the site name or code.  
 
-Using the file explorer, find and select the text file you want to use.<br/>
+Using the file explorer, find and select the text file you want to use.  
    
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/notepad.png" width="350" height="250"> 
 
 Then **Press [C] to continue:**
 
-The site name or code (LDNOFFICE) and the selected file (devices.txt) will appear as a visual and functional representation of the current session.<br/>
+The site name or code (LDNOFFICE) and the selected file (devices.txt) will appear as a visual and functional representation of the current session.  
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/selected-file.png" width="350" height="290"> 
    
-<mark>**STEP 2:**</mark><br/>
+<mark>**STEP 2:**</mark>  
 
-The next thing is to analyse the selected text file by using option **4. Analyze file**, this will verify each TeamworkDeviceId to see if there any updates required.<br/>
+The next thing is to analyse the selected text file by using option **4. Analyze file**, this will verify each TeamworkDeviceId to see if there any updates required.  
 
-The main updates this app verifies are:<br/>
+The main updates this app verifies are:  
 - [ ] Teams admin agent
 - [x] Firmware
 - [x] Company portal app
@@ -93,7 +93,7 @@ After the analysis has completed, you will see how many devices have been verifi
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update.png" width="350" height="290"> 
 
-Every time a file analysis is performed, a 'did.csv' session file is created, which is located in the 'tmp' directory.<br/>
+Every time a file analysis is performed, a 'did.csv' session file is created, which is located in the 'tmp' directory.  
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190">
 
@@ -130,9 +130,9 @@ This will either state 'updateAvailable' or 'latest'.
 > **Rep:**
 This is used to record the update being applied to the device and compared against the device's current version on the tenant. If the equality comparison in the script matches these two values, the replication in the tenant is complete, and the 'Rep' value is then null. If the equality comparison does not match, then the Rep value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once replication is complete.
 
-<mark>**STEP 3:**</mark><br/>
+<mark>**STEP 3:**</mark>  
 
-After file analysis please review the 'did.csv' session file, and then select option **5. Update software (2)**.
+After file analysis, please review the 'did.csv' session file and then select option **5. Update software (2)** to kick start the process.
 
 
 
