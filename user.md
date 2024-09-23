@@ -94,7 +94,7 @@ Every time a file analysis is performed, a 'did.csv' session file is created, wh
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190">
 
 > **HealthStatus:**
-This will be stamped with 'nonUrgent' if the respective software type requires a software update.
+This will be stamped with 'nonUrgent' if the respective software type of the device requires an update.
 
 > [!NOTE]
 > If the HealthStatus is showing as 'offline' against a sub-set of device software types, these will be excluded from software updates.
