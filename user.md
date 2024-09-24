@@ -138,7 +138,7 @@ After file analysis, please review the 'did.csv' session file and then select op
 
 If you review the 'did.csv' session file again you will see things have changed.  
 
-<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png" width="1200" height="190">
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png" width="1200" height="180">
 
 
 
