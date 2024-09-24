@@ -95,7 +95,7 @@ After the analysis has completed, you will see how many devices have been verifi
 
 Every time a file analysis is performed, a 'did.csv' session file is created, which is located in the 'tmp' directory.  
 
-<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190">
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png">
 
 > **HealthStatus:**
 This will be stamped with 'nonUrgent' if the respective software type of the device requires an update.
@@ -138,7 +138,7 @@ After file analysis, please review the 'did.csv' session file and then select op
 
 If you review the 'did.csv' session file again you will see things have changed.  
 
-<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png" width="1195" height="195">
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png">
 
 
 
