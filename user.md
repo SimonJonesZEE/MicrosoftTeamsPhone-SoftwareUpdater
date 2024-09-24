@@ -136,6 +136,11 @@ After file analysis, please review the 'did.csv' session file and then select op
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update2.png" width="350" height="290"> 
 
+If you review the 'did.csv' session file again you will see things have changed.  
+
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png" width="1200" height="190">
+
+
 
 
 ## Page info
