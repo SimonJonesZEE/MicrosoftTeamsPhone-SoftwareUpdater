@@ -132,7 +132,9 @@ This is used to record the update being applied to the device and compared again
 
 <mark>**STEP 3:**</mark>  
 
-After file analysis, please review the 'did.csv' session file and then select option **5. Update software (2)** to kick start the process.
+After file analysis, please review the 'did.csv' session file and then select option **5. Update software (2)** to kick start the process.  
+
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update2.png" width="350" height="290"> 
 
 
 
