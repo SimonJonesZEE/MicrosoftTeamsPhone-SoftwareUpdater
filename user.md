@@ -93,7 +93,7 @@ Once the analysis has completed, you will see how many devices have been verifie
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update.png" width="350" height="290"> 
 
-In addition to this a 'did.csv' session file is created, which is located in the 'tmp' directory.  
+In addition to this a 'did.csv' file is created, which is located in the 'tmp' directory.  
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png">
 
@@ -136,12 +136,16 @@ Now select option **5. Update software (2)** to kick start the process.
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update2.png" width="350" height="290"> 
 
-Once completed, you will see that option. **5. Update software** has dynamically changed to option **5. Verify software**. If you open the 'did.csv' session file, you will notice some changes. 
+Once completed, you will see that option. **5. Update software** has dynamically changed to option **5. Verify software**. If you open the 'did.csv' file, you will notice some changes. 
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png">  
 
 The **Status** field is showing the update as 'Queued' and the **SID** field contains the unique id of the update, and the **Rep** field contains a snapshot of the available update being applied.  
-You can repeatedly run option **5. Verify software**, which will update the 'did.csv' file in order for you to track the progress of the updates being applied.
+
+You can repeatedly run option **5. Verify software**, which will update the 'did.csv' file in order for you to track the progress of the updates being applied to the devices.
+
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis3.png"> 
+
 
 
 
