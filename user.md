@@ -155,6 +155,12 @@ When the updates have been applied successfully and dependent on the update bein
 > [!TIP]
 > If the **Status** shows as 'Failed' against a device update, then select option **5. Verify software**, again to retry the update on the device(s).
 
+With all things being equal, option **5. Verify software** will have reverted back to **5. Update software (0)**, indicating all devices are running on the latest software.  
+
+
+
+
+
 
 
 
