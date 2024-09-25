@@ -153,7 +153,7 @@ When the updates have been applied successfully and dependent on the update bein
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis5.png">  
 
 > [!TIP]
-> If the **Status** shows as 'Failed' against a device update, then select option **5. Verify software** to retry the update on the device(s).
+> If the **Status** shows as 'Failed' against a device update, then select option **5. Verify software** to retry the update on the device(s).  
 > In some instances, the **HealthStatus** of a device may show as 'offline' which is common on firmware updates; when this happens, manually reboot the device.
 
 > [!WARNING]
