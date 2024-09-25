@@ -148,7 +148,7 @@ You can repeatedly run option **5. Verify software**, which will update the 'did
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis4.png"> 
 
-When the updates have been applied successfully and dependent on the update being applied, the **Rep** field will be blank, which indicates replication of the update in Teams is complete, and the **Status** field records the update as 'Successful'.
+When the updates have been applied successfully and dependent on the update being applied, the **Rep** field will be blank, which indicates replication of the update in Teams is complete, and the **Status** field records the update as 'Successful' and all other fields are refreshed.
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis5.png">  
 
@@ -162,6 +162,7 @@ With all things being equal, option **5. Verify software** will have reverted ba
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update3.png" width="350" height="290"> 
 
+At this point you can either select option **3. Select file** to update some more devices on the tenant or you can select option **Q. Quit** and re-run the application to do this on another tenant.
 
 
 
