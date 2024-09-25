@@ -150,7 +150,11 @@ You can repeatedly run option **5. Verify software**, which will update the 'did
 
 When the updates have been applied successfully and dependent on the update being applied, the **Rep** field will be blank, which indicates replication of the update in Teams is complete, and the **Status** field records the update as 'Successful'.
 
-<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis5.png"> 
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis5.png">  
+
+> [!TIP]
+> If the **Status** shows as 'Failed' against a device update, then select option **5. Verify software**, again to retry the update on the device(s).
+
 
 
 
