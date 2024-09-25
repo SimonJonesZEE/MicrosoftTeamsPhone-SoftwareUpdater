@@ -140,7 +140,9 @@ Once completed, you will see that option. **5. Update software** has dynamically
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png">  
 
-The **Status** field is showing the update as 'Queued' and the **SID** field contains the unique id of the update, and the **Rep** field contains a snapshot of the available update being applied.
+The **Status** field is showing the update as 'Queued' and the **SID** field contains the unique id of the update, and the **Rep** field contains a snapshot of the available update being applied.  
+You can repeatedly run option **5. Verify software**, which will update the 'did.csv' file in order for you to track the progress of the updates being applied.
+
 
 
 
