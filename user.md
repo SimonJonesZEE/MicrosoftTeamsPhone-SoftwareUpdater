@@ -164,8 +164,20 @@ With all things being equal, option **5. Verify software** will have reverted ba
 
 At this point you can either select option **3. Select file** to update different devices on the tenant or you can select option **Q. Quit** and re-run this application to update devices on another tenant.
 
-<mark>**STEP 4: (optional)**</mark>
+<mark>**STEP 4: (optional)**</mark>  
 
+If you want to schedule a restart of one or more Teams devices then select option **6. Restart**.  
+
+You will then be prompted for user input.  
+   
+         Proceed with Teams Phone restart? [Y] Yes [N] No: Y  
+         
+> [!NOTE]
+> Inputting [N] No or left blank will return you back to the main menu.
+
+> [!WARNING]
+> This will reboot device(s) and will take them out of service momentarily whilst they reboot.  
+> Please proceed with caution when using this option.
 
 
 
