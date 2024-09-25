@@ -169,7 +169,7 @@ At this point you can either select option **3. Select file** to update differen
 If you want to schedule a restart of one or more Teams devices then select option **6. Device restart**.
 
 > [!TIP]
-> This option does not require option **4. Analyze file** to be executed.
+> File analysis is not required for this option.
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-restart.png" width="350" height="290"> 
 
