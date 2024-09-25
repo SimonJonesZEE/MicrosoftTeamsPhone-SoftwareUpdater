@@ -89,11 +89,11 @@ The main updates this app verifies are:
 - [ ] Oem agent app
 - [x] Teams app
 
-After the analysis has completed, you will see how many devices have been verified next to **4. Analyze file (3)** and how many devices require updates next to **5. Update software (2)**.
+Once the analysis has completed, you will see how many devices have been verified next to **4. Analyze file (3)** and how many devices require updates next to **5. Update software (2)**.  
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update.png" width="350" height="290"> 
 
-Every time a file analysis is performed, a 'did.csv' session file is created, which is located in the 'tmp' directory.  
+In addition to this a 'did.csv' session file is created, which is located in the 'tmp' directory.  
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png">
 
@@ -132,15 +132,15 @@ This is used to record the update being applied to the device and compared again
 
 <mark>**STEP 3:**</mark>  
 
-After file analysis, please review the 'did.csv' session file and then select option **5. Update software (2)** to kick start the process.  
+Now select option **5. Update software (2)** to kick start the process.  
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update2.png" width="350" height="290"> 
 
-If you review the 'did.csv' session file again you will see things have changed.  
+You will see that option **5. Update software** has dynamically changed to option **5. Verify software**. If you review the 'did.csv' session file again, you will see things have changed. 
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png">  
 
-The **Status** field has been updated with 'Queued', the **SID** field now contains the unique id of the update and the **Rep** field contains a snapshot of the available update being applied.
+The **Status** field has been updated with 'Queued', the **SID** field now contains the unique id of the update, and the **Rep** field contains a snapshot of the available update being applied.
 
 
 
