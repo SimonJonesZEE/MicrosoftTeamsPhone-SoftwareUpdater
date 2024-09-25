@@ -34,7 +34,7 @@ There are multiple options to choose from.
 > This will analyze the selected file which contains one or more TeamworkDeviceIds.
 #### 5. Update software
 > Schedules software updates on Teams Phone devices.
-#### 6. Restart 
+#### 6. Device restart 
 > Initiates a restart of all TeamworkDeviceId's within the selected text file.
 #### Q. Quit
 > This will close and exit the PowerShell GUI.
