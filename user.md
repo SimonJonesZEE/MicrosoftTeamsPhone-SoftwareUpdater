@@ -160,6 +160,7 @@ When the updates have been applied successfully and dependent on the update bein
 
 With all things being equal, option **5. Verify software** will have reverted back to **5. Update software (0)**, indicating all devices are running on the latest software.  
 
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update3.png" width="350" height="290"> 
 
 
 
