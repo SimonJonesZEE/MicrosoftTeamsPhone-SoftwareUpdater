@@ -148,7 +148,10 @@ You can repeatedly run option **5. Verify software**, which will update the 'did
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis4.png"> 
 
-When the 
+When the updates have been applied successfully and dependent on the update being applied, the **Rep** field will be blank, which indicates replication of the update in Teams is complete, and the **Status** field records the update as 'Successful'.
+
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis5.png"> 
+
 
 
 
