@@ -166,7 +166,7 @@ At this point you can either select option **3. Select file** to update differen
 
 <mark>**STEP 4: (optional)**</mark>  
 
-If you want to schedule a restart of one or more Teams devices then select option **6. Restart**.  
+If you want to schedule a restart of one or more Teams devices then select option **6. Device restart**.  
 
 You will then be prompted for user input.  
    
