@@ -140,7 +140,7 @@ If you review the 'did.csv' session file again you will see things have changed.
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png">  
 
-The Status field has been updated with 'Queued', the SID field now contains the unique id of the update and the Rep field is a snapshot of the available update being applied.
+The **Status** field has been updated with 'Queued', the **SID** field now contains the unique id of the update and the **Rep** field contains a snapshot of the available update being applied.
 
 
 
