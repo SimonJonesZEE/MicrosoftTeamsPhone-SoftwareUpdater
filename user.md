@@ -162,7 +162,7 @@ With all things being equal, option **5. Verify software** will have reverted ba
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update3.png" width="350" height="290"> 
 
-At this point you can either select option **3. Select file** to update some more devices on the tenant or you can select option **Q. Quit** and re-run the application to update devices on another tenant.
+At this point you can either select option **3. Select file** to update different devices on the tenant or you can select option **Q. Quit** and re-run the application to update devices on another tenant.
 
 
 
