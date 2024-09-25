@@ -168,6 +168,8 @@ At this point you can either select option **3. Select file** to update differen
 
 If you want to schedule a restart of one or more Teams devices then select option **6. Device restart**.  
 
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-restart.png" width="350" height="290"> 
+
 You will then be prompted for user input.  
    
          Proceed with Teams Phone restart? [Y] Yes [N] No: Y  
@@ -181,7 +183,7 @@ You will then be prompted for user input.
 
 When option **6. Device restart** is initiated the option will dynamically change to option **5. Verify restart (1)**, indicating how many devices are scheduled to reboot.  
 
-<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-restart.png" width="350" height="290"> 
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-restart2.png" width="350" height="290"> 
 
 Like before you can repeatedly run option **6. Verify restart**, which will update the 'res.csv' file located in the 'tmp' directory in order for you to track the progress of the device restarts.
 
