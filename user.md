@@ -153,7 +153,7 @@ When the updates have been applied successfully and dependent on the update bein
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis5.png">  
 
 > [!TIP]
-> If the **Status** shows as 'Failed' against a device update, then select option **5. Verify software**, again to retry the update on the device(s).
+> If the **Status** shows as 'Failed' against a device update, then select option **5. Verify software** to retry the update on the device(s).
 
 > [!WARNING]
 > Updating device firmware will take longer to replicate than a Company Portal or a Teams Client update, so periodically re-select option **5. Verify software** to check it's progress allowing enough time inbetween whilst the device no doubt reboots whilst processing this change.
