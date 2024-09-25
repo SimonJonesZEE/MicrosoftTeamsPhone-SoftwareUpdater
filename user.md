@@ -146,6 +146,10 @@ You can repeatedly run option **5. Verify software**, which will update the 'did
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis3.png"> 
 
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis4.png"> 
+
+When the 
+
 
 
 
