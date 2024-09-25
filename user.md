@@ -187,7 +187,7 @@ When option **6. Device restart** is initiated, the option will dynamically chan
 
 Like before you can repeatedly run option **6. Verify restart**, which will update the 'res.csv' file located in the 'tmp' directory in order for you to track the progress of the device restarts.
 
-That's it; you're all caught up. 😊  
+You're all caught up. 😊  
 
 ## Page info
 
