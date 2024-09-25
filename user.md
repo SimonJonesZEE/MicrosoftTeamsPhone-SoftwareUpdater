@@ -136,11 +136,11 @@ Now select option **5. Update software (2)** to kick start the process.
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update2.png" width="350" height="290"> 
 
-You will see that option **5. Update software** has dynamically changed to option **5. Verify software**. If you review the 'did.csv' session file again, you will see things have changed. 
+You will see that option **5. Update software** has dynamically changed to option **5. Verify software**. If you open the 'did.csv' session file, you will notice some changes. 
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png">  
 
-The **Status** field has been updated with 'Queued', the **SID** field now contains the unique id of the update, and the **Rep** field contains a snapshot of the available update being applied.
+The **Status** field is showing the update as 'Queued' and the **SID** field contains the unique id of the update, and the **Rep** field contains a snapshot of the available update being applied.
 
 
 
