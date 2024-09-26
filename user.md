@@ -98,7 +98,7 @@ This will also generate a 'did.csv' file, which is located in the 'tmp' director
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png">
 
 > **HealthStatus:**
-This will be stamped with 'nonUrgent' if the respective software type of the device requires an update.
+This will be stamped with 'nonUrgent' if the respective software type requires an update.
 
 > [!NOTE]
 > If the HealthStatus shows as being 'offline' against a subset of device software types, they will be excluded from being updated.
