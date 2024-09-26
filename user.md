@@ -128,7 +128,7 @@ The current version of software the device is running.
 This will either state 'updateAvailable' or 'latest'.
 
 > **Sync:**
-This is used to record the update being applied to the device and compared against the device's current version on the tenant. If the equality comparison in the script matches these two values, synchronization in the tenant is complete, and the 'Sync' value is nulled. If the equality comparison does not match, then the 'Sync' value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once synchronization is complete.
+This is used to record the update being applied to the device and compared against the device's current version on the tenant. If the equality comparison in the script matches these two values, synchronisation in the tenant is complete, and the 'Sync' value is null. If the equality comparison does not match, the 'Sync' value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once synchronisation is complete.
 
 <mark>**STEP 3:**</mark>  
 
