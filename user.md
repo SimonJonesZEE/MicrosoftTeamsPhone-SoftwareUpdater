@@ -132,7 +132,7 @@ This is used to record the update being applied to the device and compared again
 
 <mark>**STEP 3:**</mark>  
 
-Now select option **5. Update software (2)** to kick start the process. Once completed, the option will dynamically change to 5. Verify software. 
+Now select option **5. Update software (2)** to kickstart the process; the option will dynamically change to **5. Verify software** once completed.
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update2.png" width="350" height="290"> 
 
