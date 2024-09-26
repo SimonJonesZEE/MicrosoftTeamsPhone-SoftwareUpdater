@@ -158,7 +158,7 @@ When the updates have been applied successfully and dependent on the update bein
 > In some instances, the **HealthStatus** of a device may change and show as 'offline' which is common when updating firmware; when this happens, manually reboot the device or if the device is accessible over the network log into the GUI and reboot the device.
 
 > [!WARNING]
-> Updating device firmware will take longer to replicate than a Company Portal or a Teams Client update, so periodically re-select option **5. Verify software** to check it's progress allowing enough time inbetween whilst the device no doubt reboots whilst processing this change.
+> Updating device firmware will take longer to synchronize than a Company Portal or a Teams Client update, so periodically re-select option **5. Verify software** to check it's progress allowing enough time inbetween whilst the device no doubt reboots whilst processing this change.
 
 With all things being equal, option **5. Verify software** will have reverted back to **5. Update software (0)**, indicating all devices are running on the latest software.  
 
