@@ -147,7 +147,7 @@ The **Status** field is showing the update as 'Queued' and the **SID** field con
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis3.png"> 
 
-When the updates have been applied successfully and dependent on the update being applied, the **Sync** field will be blank, which indicates synchronization of the update in Teams is complete, and the **Status** field records the update as 'Successful' and all other fields are refreshed.
+When the updates have been applied successfully and dependent on the update being applied, the **Sync** field will be blank, which indicates synchronisation of the update in Teams is complete, and the **Status** field records the update as 'Successful' and all other fields are refreshed.
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis4.png">  
 
