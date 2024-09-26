@@ -127,8 +127,8 @@ The current version of software the device is running.
 > **SoftwareFreshness:**
 This will either state 'updateAvailable' or 'latest'.
 
-> **Rep:**
-This is used to record the update being applied to the device and compared against the device's current version on the tenant. If the equality comparison in the script matches these two values, the replication in the tenant is complete, and the 'Rep' value is then null. If the equality comparison does not match, then the Rep value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once replication is complete.
+> **Sync:**
+This is used to record the update being applied to the device and compared against the device's current version on the tenant. If the equality comparison in the script matches these two values, synchronization in the tenant is complete, and the 'Sync' value is nulled. If the equality comparison does not match, then the 'Sync' value will be persistent until there is a match, preventing accidental re-queuing of updates and enabling the script to check for further step updates against the device's current version of the software once synchronization is complete.
 
 <mark>**STEP 3:**</mark>  
 
@@ -140,7 +140,7 @@ Once completed, you will see that option. **5. Update software** has dynamically
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png">  
 
-The **Status** field is showing the update as 'Queued' and the **SID** field contains the unique id of the update, and the **Rep** field contains a snapshot of the available update being applied.  
+The **Status** field is showing the update as 'Queued' and the **SID** field contains the unique id of the update, and the **Sync** field contains a snapshot of the available update being applied.  
 
 > [!TIP]
 > You can repeatedly run option **5. Verify software**, which will update the 'did.csv' file in order for you to track the progress of the updates being applied to the devices and for the execution of further step updates if required.
@@ -149,7 +149,7 @@ The **Status** field is showing the update as 'Queued' and the **SID** field con
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis4.png"> 
 
-When the updates have been applied successfully and dependent on the update being applied, the **Rep** field will be blank, which indicates replication of the update in Teams is complete, and the **Status** field records the update as 'Successful' and all other fields are refreshed.
+When the updates have been applied successfully and dependent on the update being applied, the **Sync** field will be blank, which indicates synchronization of the update in Teams is complete, and the **Status** field records the update as 'Successful' and all other fields are refreshed.
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis5.png">  
 
