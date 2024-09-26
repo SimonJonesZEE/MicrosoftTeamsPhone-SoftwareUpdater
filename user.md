@@ -132,11 +132,11 @@ This is used to record the update being applied to the device and compared again
 
 <mark>**STEP 3:**</mark>  
 
-Now select option **5. Update software (2)** to kick start the process.  
+Now select option **5. Update software (2)** to kick start the process. Once completed, the option will dynamically change to 5. Verify software. 
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update2.png" width="350" height="290"> 
 
-Once completed, you will see that option. **5. Update software** has dynamically changed to option **5. Verify software**. If you open the 'did.csv' file, you will notice some changes. 
+If you open the 'did.csv' file, you will notice some changes. 
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis2.png">  
 
@@ -186,7 +186,7 @@ You will then be prompted for user input.
 > This will reboot device(s) and will take them out of service momentarily whilst they reboot.  
 > Please proceed with caution when using this option.
 
-When option **6. Device restart** is initiated, the option will dynamically change to option **5. Verify restart (1)**, indicating how many devices are scheduled for a reboot. 
+When option **6. Device restart** is initiated, the option will dynamically change to **5. Verify restart (1)**, indicating how many devices are scheduled for a reboot. 
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-restart2.png" width="350" height="290"> 
 
