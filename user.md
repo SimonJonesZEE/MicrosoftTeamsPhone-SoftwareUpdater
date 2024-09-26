@@ -93,7 +93,7 @@ Once the analysis has completed, you will see how many devices have been verifie
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update.png" width="350" height="290"> 
 
-In addition to this a 'did.csv' file is created, which is located in the 'tmp' directory.  
+This will also generate a 'did.csv' file, which is located in the 'tmp' directory.  
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-analysis.png">
 
