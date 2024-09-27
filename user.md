@@ -160,7 +160,7 @@ When the updates have been applied successfully and dependent on the update bein
 > [!WARNING]
 > Updating device firmware will take longer to synchronize than a Company Portal or a Teams Client update, so periodically re-select option **5. Verify software** to check it's progress allowing enough time inbetween whilst the device no doubt reboots whilst processing this change.
 
-With all things being equal, option **5. Verify software** will have reverted back to **5. Update software**, indicating **(0)** confirming all devices are running on the latest software.  
+When all updates have been done, option **5. Verify software** will have reverted back to **5. Update software**, indicating **(0)** confirming all devices are running on the latest software. 
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update3.png" width="350" height="290"> 
 
@@ -191,6 +191,10 @@ When option **6. Device restart** is initiated, the option will dynamically chan
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-restart2.png" width="350" height="290"> 
 
 Like before you can repeatedly run option **6. Verify restart**, which will update the `res.csv` file located in the `tmp` directory in order for you to track the progress of the device restarts.
+
+When all device restarts have been done, option **6. Verify restart** will have reverted back to **6. Device restart**, indicating **(0)** confirming all devices have successfully restarted. 
+
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-restart3.png" width="350" height="290"> 
 
 You're all caught up. 😊  
 
