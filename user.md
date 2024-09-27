@@ -160,7 +160,7 @@ When the updates have been applied successfully and dependent on the update bein
 > [!WARNING]
 > Updating device firmware will take longer to synchronize than a Company Portal or a Teams Client update, so periodically re-select option **5. Verify software** to check it's progress allowing enough time inbetween whilst the device no doubt reboots whilst processing this change.
 
-With all things being equal, option **5. Verify software** will have reverted back to **5. Update software**, indicating '(0)' confirming all devices are running on the latest software.  
+With all things being equal, option **5. Verify software** will have reverted back to **5. Update software**, indicating **(0)** confirming all devices are running on the latest software.  
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-update3.png" width="350" height="290"> 
 
