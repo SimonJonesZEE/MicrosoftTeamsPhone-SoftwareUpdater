@@ -192,7 +192,7 @@ When option **6. Device restart** is initiated, the option will dynamically chan
 
 Like before you can repeatedly run option **6. Verify restart**, which will update the `res.csv` file located in the `tmp` directory in order for you to track the progress of the device restarts.  
 
-<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-restart.png" width="450" height="70">
+<img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-restart.png">
 
 When all device restarts have been done, option **6. Verify restart** will have reverted back to **6. Device restart**, indicating **(0)** confirming all devices have successfully restarted. 
 
