@@ -74,7 +74,7 @@ Using the file explorer, find and select the text file you want to use.
 
 Then **Press [C] to continue:**
 
-The site name or code '(LDNOFFICE)' and the selected file '(devices.txt)' will appear as a visual and functional representation of the current session.  
+The site name or code (LDNOFFICE) and the selected file (devices.txt) will appear as a visual and functional representation of the current session.  
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/selected-file.png" width="350" height="290"> 
    
