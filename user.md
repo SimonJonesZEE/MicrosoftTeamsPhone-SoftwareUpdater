@@ -194,7 +194,7 @@ Like before you can repeatedly run option **6. Verify restart**, which will upda
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/file-restart.png">
 
-When all device restarts are successful, option **6. Verify restart** will have reverted back to **6. Device restart**, indicating **(0)** confirming all devices have successfully restarted. 
+When all device restarts are successful, option **6. Verify restart** will have reverted back to **6. Device restart**, indicating **(0)** confirming all devices have restarted. 
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-restart3.png" width="350" height="290"> 
 
