@@ -21,7 +21,7 @@
 1. Launch the PowerShell console and type **Import-Module TeamsPhoneSoftwareUpdater**
 2. This will prompt for you to sign in to your account using MFA.<br/>
 
-   <img src="https://github.com/SimonJonesZEE/Assets/blob/main/images/sign-in.png" width="350" height="250"> 
+   <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/sign-in.png" width="350" height="250"> 
   
 3. Once signed in, you will see a GUI options menu, and the 'TENANT DISPLAY NAME' will change to that of the connected tenant.<br/>
 
