@@ -35,5 +35,5 @@ If you think something is missing, please raise them as issues [here](https://gi
 | Name | README |
 | :--- | :--- |
 | Author | Simon Jones ([@simonjoneszee](https://github.com/simonjoneszee)) |
-| **Version** | 1.0 |
-| **Date** | 26/09/2024 |
+| **Version** | 2.0 |
+| **Date** | 01/10/2024 |
