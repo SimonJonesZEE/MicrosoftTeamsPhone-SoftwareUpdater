@@ -1,6 +1,6 @@
 <#PSScriptInfo
 
-.VERSION 1.0
+.VERSION 2.0
 
 .GUID
 cf43c4ef-a648-4f67-854f-017b7394ec3c
@@ -12,7 +12,7 @@ Simon Jones
 SACOMS
 
 .COPYRIGHT
-2024
+(c) 2024 Simon Jones. All rights reserved.
 
 .TAGS
 
