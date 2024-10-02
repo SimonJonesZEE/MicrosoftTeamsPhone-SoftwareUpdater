@@ -44,5 +44,5 @@ There are multiple options to choose from.
 | Page | About |
 | :--- | :--- |
 | Author | Simon Jones ([@simonjoneszee](https://github.com/simonjoneszee)) |
-| **Version** | 1.0 |
-| **Date** | 01/10/2024 |
+| **Version** | 1.0.1 |
+| **Date** | 02/10/2024 |
