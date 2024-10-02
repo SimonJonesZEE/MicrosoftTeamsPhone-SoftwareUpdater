@@ -205,5 +205,5 @@ You're all caught up. 😊
 | Page | User Guide |
 | :--- | :--- |
 | Author | Simon Jones ([@simonjoneszee](https://github.com/simonjoneszee)) |
-| **Version** | 1.0 |
-| **Date** | 01/10/2024 |
+| **Version** | 1.0.1 |
+| **Date** | 02/10/2024 |
