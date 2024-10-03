@@ -190,7 +190,7 @@ You will then be prompted for user input.
 > This will reboot device(s) and will take them out of service momentarily whilst they reboot.  
 > Please proceed with caution when using this option.
 
-When option **6. Device restart** is initiated, the option will dynamically change to **5. Verify restart**, indicating **(1)** devices are scheduled for a reboot. 
+When option **6. Device restart** is initiated, the option will dynamically change to **5. Verify restart**, indicating **(3)** devices are scheduled for a reboot. 
 
 <img src="https://github.com/SimonJonesZEE/MicrosoftTeamsPhone-SoftwareUpdater/blob/main/assets/device-restart2.png" width="350" height="290"> 
 
