@@ -13,7 +13,7 @@
   >  The modules folder structure will be created for you when its first run.
 
 ## 2. Installation
-* Download and exract a copy of the files to your directory.  **$HOME\Documents\WindowsPowerShell\Modules\TeamsPhoneSoftwareUpdater\1.0.1**
+* Download and extract a copy of the files to your directory.  **$HOME\Documents\WindowsPowerShell\Modules\TeamsPhoneSoftwareUpdater\1.0.1**
 * Alternatively, copy and paste the following command to install this package using PowerShellGet.
   
         PS> Install-Module -Name TeamsPhoneSoftwareUpdater
