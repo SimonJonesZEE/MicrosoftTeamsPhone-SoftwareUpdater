@@ -1,7 +1,7 @@
 # About Software Updater for Microsoft Teams Phone
 
-| [Home](README.md) | [About](about.md) | [User Guide](user.md) | [Support](support.md) | 
-| --- | --- | --- | --- |
+| [Home](README.md) | [About](about.md) | [User Guide](user.md) | [Download](https://github.com/simonjoneszee/MicrosoftTeamsPhone-SoftwareUpdater/releases) | [Support](support.md) | 
+| --- | --- | --- | --- | --- |
 
 ## Disclaimer
 > [!IMPORTANT]
