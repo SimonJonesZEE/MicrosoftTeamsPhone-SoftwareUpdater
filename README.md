@@ -21,7 +21,7 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 * Microsoft Entra roles
     - Cloud Application Administrator (preferred)
     - Teams Admnistrator
-* Office 365 Enterprise License
+* An Office 365 Enterprise License
     
 ## User Guide
 Please find step-by-step guidance on the [user guide](user.md) page.  
