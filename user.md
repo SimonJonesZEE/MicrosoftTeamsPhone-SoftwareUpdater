@@ -9,7 +9,7 @@
 * Microsoft Entra roles
     - Cloud Application Administrator (preferred)
     - Teams Admnistrator
- * Office 365 Enterprise License
+ * An Office 365 Enterprise License
  > [!NOTE]
   >  The modules folder structure will be created for you when its first run.
 
